@@ -18,7 +18,7 @@ but understood what you actually care about?**
 
 ---
 ## DEMO1
-https://vasanthanalyzer.netlify.app/
+https://vasanthanalyzerforstudents.netlify.app/
 ## DEMO2
 https://vasanthrgmhackathon.netlify.app/
 ## The Problem
