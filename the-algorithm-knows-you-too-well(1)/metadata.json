@@ -1,0 +1,7 @@
+{
+  "name": "The Algorithm Knows You Too Well",
+  "description": "AI-powered technology reel recommendation agent discovering latent interests from short-form scrolling behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
